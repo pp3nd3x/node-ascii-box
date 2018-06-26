@@ -1,6 +1,6 @@
 # ascii-box
 
-Utility to print boxes in the console given with a min and max width.
+Utility to print boxes in the console.
 
 ---
 
@@ -21,13 +21,13 @@ npm install ascii-box --save
 
 **Parameters**
 
-* `msg` **[string][2]**
-* `opts` **[Object][3]**
-  * `opts.border` **[string][2]** single, double, code, round, dotted, retro, single-double, double-single
-  * `opts.color` **[string][2]** green, red, blue, cyan, magenta, gray, black, white
-  * `opts.padding` **[number][4]**
-  * `opts.minWidth` **[number][4]**
-  * `opts.maxWidth` **[number][4]**
+* `msg` **string**
+* `opts` **Object**
+  * `opts.border` **string** single, double, code, round, dotted, retro, single-double, double-single
+  * `opts.color` **string** green, red, blue, cyan, magenta, gray, black, white
+  * `opts.padding` **number**
+  * `opts.minWidth` **number**
+  * `opts.maxWidth` **number**
 
 ---
 
