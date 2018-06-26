@@ -1,6 +1,6 @@
 'use strict';
 
-const box = require('../lib/index').default;
+const box = require('../lib/index').box;
 
 // Default
 console.log(

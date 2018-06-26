@@ -36,7 +36,7 @@ npm install ascii-box --save
 Example:
 
 ```javascript
-const box = require('ascii-box');
+const box = require('ascii-box').box;
 
 // Default
 console.log(
@@ -59,7 +59,7 @@ console.log(
 Example:
 
 ```javascript
-const box = require('ascii-box');
+const box = require('ascii-box').box;
 
 // Code box
 console.log(
@@ -81,7 +81,7 @@ console.log(
 Example:
 
 ```javascript
-const box = require('ascii-box');
+const box = require('ascii-box').box;
 
 // Dotted box
 console.log(
@@ -107,7 +107,7 @@ console.log(
 Example:
 
 ```javascript
-const box = require('ascii-box');
+const box = require('ascii-box').box;
 
 // Retro box
 console.log(
@@ -133,7 +133,7 @@ console.log(
 Example:
 
 ```javascript
-const box = require('ascii-box');
+const box = require('ascii-box').box;
 
 // single box
 console.log(
@@ -160,7 +160,7 @@ console.log(
 Example:
 
 ```javascript
-const box = require('ascii-box');
+const box = require('ascii-box').box;
 
 // double-single box
 console.log(
@@ -187,7 +187,7 @@ console.log(
 Example:
 
 ```javascript
-const box = require('ascii-box');
+const box = require('ascii-box').box;
 
 // double-single box
 console.log(
@@ -214,7 +214,7 @@ console.log(
 Example:
 
 ```javascript
-const box = require('ascii-box');
+const box = require('ascii-box').box;
 
 // round box
 console.log(
